@@ -9,10 +9,16 @@ Robust Performance: Handles outdoor conditions effectively.
 YOLOv8 Model: Utilizes state-of-the-art YOLOv8 for fire detection.
 Installation
 Prerequisites
+
 Python 3.8+
+
 YOLOv8: Install using the Ultralytics package.
+
 OpenCV: For video processing.
+
 PyTorch: Deep learning framework.
+
+
 Steps
 Clone the Repository:
 
