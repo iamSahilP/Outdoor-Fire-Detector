@@ -1,14 +1,13 @@
 
-Outdoor Fire Detector
-Overview
+# Outdoor Fire Detector
+## Overview
 The Outdoor Fire Detector is a real-time fire detection system designed to identify and alert users to the presence of fires in outdoor environments. Leveraging YOLOv8 (You Only Look Once, version 8) for object detection, this system offers high accuracy and reliability for detecting fires under various environmental conditions.
 
-Features
+# Features
 Real-Time Detection: Detects fires with high accuracy in real-time.
 Robust Performance: Handles outdoor conditions effectively.
 YOLOv8 Model: Utilizes state-of-the-art YOLOv8 for fire detection.
-Installation
-Prerequisites
+# Installation Prerequisites
 
 Python 3.8+
 
@@ -19,7 +18,7 @@ OpenCV: For video processing.
 PyTorch: Deep learning framework.
 
 
-Steps
+# Steps
 Clone the Repository:
 
 bash
